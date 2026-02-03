@@ -2,12 +2,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Localização-Brasil-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Inglês-Intermediário-blueviolet?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Steatsos&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steatsos&layout=compact&theme=default&hide_border=true" height="150" />
 </p>
 
 ## 🇧🇷 Sobre mim  
