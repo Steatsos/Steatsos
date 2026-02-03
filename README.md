@@ -1,6 +1,6 @@
 # 👨‍💻 Felipe Rabello
 
-## 🟩🟨🟦 Sobre mim  
+## 🟩🟨 Sobre mim  
 **Desenvolvedor WEB e Técnico em Informática para Internet** formado pelo **Instituto Federal de São Paulo (IFSP) – Campus São Carlos**.  
 Tenho experiência, principalmente, com **HTML, CSS, JavaScript, Java, Python e SQL**, atuando no desenvolvimento web e em soluções computacionais em geral.
 
@@ -8,7 +8,7 @@ Tenho como ponto forte a disposição contínua para aprender, buscar boas prát
 
 ---
 
-## 🟦🟥⬜ About me  
+## 🟦🟥 About me  
 **WEB developer and Internet Computing Technician** graduated from **Instituto Federal de São Paulo (IFSP) – São Carlos Campus**.  
 I mainly work with **HTML, CSS, JavaScript, Java, Python, and SQL**, focusing on web development and general software solutions.
 
