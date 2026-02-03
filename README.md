@@ -18,17 +18,17 @@ One of my main strengths is my continuous willingness to learn, improve my skill
 
 ## 🚀 Tecnologias e Ferramentas | Technologies & Tools
 
-**Frontend**  
-- HTML5  
-- CSS3  
-- JavaScript  
+### Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Backend & Programação**  
-- Java  
-- Python  
+### Backend & Programação  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Banco de Dados**  
-- SQL  
+### Banco de Dados  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
