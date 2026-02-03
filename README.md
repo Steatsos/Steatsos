@@ -1,4 +1,14 @@
 # 👨‍💻 Felipe Rabello
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Localização-Brasil-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Inglês-Intermediário-blueviolet?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=default&hide_border=true" height="150" />
+</p>
 
 ## 🇧🇷 Sobre mim  
 **Desenvolvedor WEB e Técnico em Informática para Internet** formado pelo **Instituto Federal de São Paulo (IFSP) – Campus São Carlos**.  
