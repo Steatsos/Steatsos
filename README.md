@@ -2,7 +2,7 @@
 
 ## 🟩🟨 Sobre mim
 Estudante de Ciência da Computação na Universidade Federal de São Carlos (UFSCar). Sou um desenvolvedor WEB também Técnico em Informática para Internet formado pelo Instituto Federal de São Paulo (IFSP).
-Tenho experiência, principalmente, com **HTML, CSS, JavaScript, Java, Python e SQL**, atuando no desenvolvimento web e em soluções computacionais em geral.
+Tenho experiência, principalmente, com **HTML, CSS, JavaScript, Java, C, Python e SQL**, atuando no desenvolvimento web e em soluções computacionais em geral.
 
 Tenho como ponto forte a disposição contínua para aprender, buscar boas práticas e evoluir tecnicamente. Estou sempre aberto a novos desafios.
 
@@ -10,7 +10,7 @@ Tenho como ponto forte a disposição contínua para aprender, buscar boas prát
 
 ## 🟦🟥 About me
 Computer Science student in Federal University of São Carlos (UFSCar). I am a WEB developer also an Internet Computing technician graduated from Federal Institute of São Paulo (IFSP).
-I mainly work with **HTML, CSS, JavaScript, Java, Python, and SQL**, focusing on web development and general software solutions.
+I mainly work with **HTML, CSS, JavaScript, Java, C, Python, and SQL**, focusing on web development and general software solutions.
 
 One of my main strengths is my continuous willingness to learn, improve my skills, and adopt best development practices. I am always open to new challenges.
 
@@ -26,6 +26,7 @@ One of my main strengths is my continuous willingness to learn, improve my skill
 ### Backend & Programação  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-7A8796?style=flat-square&logo=C&logoColor=white)
 
 ### Banco de Dados  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
