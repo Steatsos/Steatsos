@@ -26,7 +26,8 @@ One of my main strengths is my continuous willingness to learn, improve my skill
 ### Backend & Programação  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-7A8796?style=flat-square&logo=C&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C/C++-lightpink?style=flat-square&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ### Banco de Dados  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
